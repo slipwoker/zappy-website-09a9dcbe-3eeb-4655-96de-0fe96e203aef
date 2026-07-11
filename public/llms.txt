@@ -1,0 +1,86 @@
+# Praman Consulting — Generative Engine Optimization Map
+
+> Praman Consulting is a full-service management consulting firm operating at pramanconsulting.com, offering a broad suite of professional services including strategic consulting, marketing design, sales enablement, and HR consulting. The brand tone is sharp, direct, and human — blending authoritative expertise with an approachable, people-first voice. The firm positions itself as a results-driven partner that cuts through corporate noise and delivers real impact across business functions.
+
+---
+
+## Pages
+
+### Home
+https://praman-consulting-09a9dcbe.zappy5.app
+Praman Consulting is the global management consulting firm that delivers sharp strategy, real results, and zero fluff. Partner with us to transform your business from the inside out.
+
+### Services
+https://praman-consulting-09a9dcbe.zappy5.app/services
+From strategy to execution, our business management consulting services cover marketing design, sales enablement, and HR consulting. Stop planning, start performing.
+
+### Approach
+https://praman-consulting-09a9dcbe.zappy5.app/approach
+Our approach cuts through corporate clutter with a people-first, data-sharp methodology. Discover how this business management consulting firm turns insight into action.
+
+### About
+https://praman-consulting-09a9dcbe.zappy5.app/about
+We&#39;re a global management consulting firm built on sharp minds and real talk. Meet the team that brings McKinsey-level rigor without the robot act.
+
+### Contact
+https://praman-consulting-09a9dcbe.zappy5.app/contact
+Stop scrolling and start solving. Reach out to the business management consulting firm that answers fast, listens first, and delivers without the drama.
+
+### Thank You | Praman Consulting
+https://praman-consulting-09a9dcbe.zappy5.app/thank-you
+Praman Consulting - Thank You | Praman Consulting
+
+## Legal & Policy
+
+### Privacy Policy
+https://praman-consulting-09a9dcbe.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://praman-consulting-09a9dcbe.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://praman-consulting-09a9dcbe.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://praman-consulting-09a9dcbe.zappy5.app/contact
+- Endpoint: https://praman-consulting-09a9dcbe.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Praman Consulting
+Praman Consulting is a full-service management consulting firm operating at pramanconsulting.com, offering a broad suite of professional services including strategic consulting, marketing design, sales enablement, and HR consulting. The brand tone is sharp, direct, and human — blending authoritative expertise with an approachable, people-first voice. The firm positions itself as a results-driven partner that cuts through corporate noise and delivers real impact across business functions.
+
+## Target Audience
+- Corporate Leaders
+- Mid-size Business Owners
+- Emerging Tech Startups
+
+## Industry
+Management Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://praman-consulting-09a9dcbe.zappy5.app/sitemap.xml
+- Robots: https://praman-consulting-09a9dcbe.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://praman-consulting-09a9dcbe.zappy5.app/llms-full.txt

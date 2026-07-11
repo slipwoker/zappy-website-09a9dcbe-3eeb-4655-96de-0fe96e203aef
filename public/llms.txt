@@ -48,7 +48,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: info@pramanconsulting.com
+- Phone: +91.9820004928
+- Phone (tel): tel:+919820004928
+- Address: India
 
 ### Contact form
 - URL: https://example.com/contact
@@ -60,7 +63,7 @@ Information about WCAG compliance and accessibility features.
   - `email` (email, required)
   - `phone` (tel)
   - `message` (textarea, required)
-  - `privacy_consent` (checkbox)
+  - `privacy_consent` (checkbox, required)
 
 ---
 

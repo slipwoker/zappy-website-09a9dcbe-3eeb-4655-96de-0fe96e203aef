@@ -341,11 +341,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -355,13 +355,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -765,11 +761,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -779,13 +775,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1149,11 +1141,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -1163,13 +1155,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1517,11 +1505,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -1531,13 +1519,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1836,11 +1820,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -1850,13 +1834,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1894,7 +1874,6 @@ URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
-
 
 
 
@@ -2042,11 +2021,11 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Company: Praman Consulting
 
-- Email: [business_email]
+- Email: info@pramanconsulting.com
 
-- Phone: [business_phone]
+- Phone: +91.9820004928
 
-- Address: [business_address]
+- Address: India
 
 
 
@@ -2094,11 +2073,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -2108,13 +2087,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2152,7 +2127,6 @@ URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
-
 
 
 
@@ -2308,9 +2282,9 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Company: Praman Consulting
 
-- Email: [business_email]
+- Email: info@pramanconsulting.com
 
-- Phone: [business_phone]
+- Phone: +91.9820004928
 
 
 
@@ -2358,11 +2332,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -2372,13 +2346,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2416,7 +2386,6 @@ URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
-
 
 
 
@@ -2595,11 +2564,11 @@ For questions or clarifications regarding the terms of use:
 
 - Company: Praman Consulting
 
-- Email: [business_email]
+- Email: info@pramanconsulting.com
 
-- Phone: [business_phone]
+- Phone: +91.9820004928
 
-- Address: [business_address]
+- Address: India
 
 
 
@@ -2644,11 +2613,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -2658,13 +2627,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2836,11 +2801,11 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 #### Contact
 
 
-- [business_email]
+- info@pramanconsulting.com
 
-- [business_phone]
+- +91.9820004928
 
-- [business_address]
+- India
 
 
 
@@ -2850,13 +2815,9 @@ Calm, intelligent strategy for growing companies. We connect marketing, sales, a
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 

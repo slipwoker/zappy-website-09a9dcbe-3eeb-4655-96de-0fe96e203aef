@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://praman-consulting-09a9dcbe.zappy5.app
+https://example.com
 Praman Consulting is the global management consulting firm that delivers sharp strategy, real results, and zero fluff. Partner with us to transform your business from the inside out.
 
 ### Services
-https://praman-consulting-09a9dcbe.zappy5.app/services
+https://example.com/services
 From strategy to execution, our business management consulting services cover marketing design, sales enablement, and HR consulting. Stop planning, start performing.
 
 ### Approach
-https://praman-consulting-09a9dcbe.zappy5.app/approach
+https://example.com/approach
 Our approach cuts through corporate clutter with a people-first, data-sharp methodology. Discover how this business management consulting firm turns insight into action.
 
 ### About
-https://praman-consulting-09a9dcbe.zappy5.app/about
+https://example.com/about
 We&#39;re a global management consulting firm built on sharp minds and real talk. Meet the team that brings McKinsey-level rigor without the robot act.
 
 ### Contact
-https://praman-consulting-09a9dcbe.zappy5.app/contact
+https://example.com/contact
 Stop scrolling and start solving. Reach out to the business management consulting firm that answers fast, listens first, and delivers without the drama.
 
 ### Thank You | Praman Consulting
-https://praman-consulting-09a9dcbe.zappy5.app/thank-you
+https://example.com/thank-you
 Praman Consulting - Thank You | Praman Consulting
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://praman-consulting-09a9dcbe.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://praman-consulting-09a9dcbe.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://praman-consulting-09a9dcbe.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://praman-consulting-09a9dcbe.zappy5.app/contact
-- Endpoint: https://praman-consulting-09a9dcbe.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Management Consulting
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://praman-consulting-09a9dcbe.zappy5.app/sitemap.xml
-- Robots: https://praman-consulting-09a9dcbe.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://praman-consulting-09a9dcbe.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
